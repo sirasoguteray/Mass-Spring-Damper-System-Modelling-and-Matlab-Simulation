@@ -24,7 +24,7 @@ The mechanical system is composed of several masses connected by differently pos
 
 
 ## **Simulink Block Diagram** 
-
+You can find the simulink diagram and data for the simulink as a code in the files. 
 ![image](https://github.com/user-attachments/assets/431e3715-d77d-42ef-84a1-5e9dc526bd0b)
 
 **
@@ -35,7 +35,7 @@ The mechanical system is composed of several masses connected by differently pos
 ![image](https://github.com/user-attachments/assets/0b9d3f6c-1edb-463d-aaa2-a2c021e62bc7)
 
 ## **State Space Representation** 
-
+You can find the State Space Representation Function code to run it and matrix data as a code in the files. 
 ![image](https://github.com/user-attachments/assets/45624025-4592-40e1-996f-f9b9c8aa17b8)
 
 ## **State Space Representation Data and Function Code**
